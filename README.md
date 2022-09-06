@@ -5,6 +5,10 @@ Stock Market Prediction
 Predicting Stock Market Movement from News Text 
  
  
+Project consisted on developing an NLP model to predict the daily closing values of a stock market index based on news. Resorting to the NLP techniques learned during the course, it was required to implement a binary classifier that, for each day, receives news headlines and is able to predict if the index closing value rose (1) or decreased (0).
+
+The jupyter notenook presents all the experiments and techniques used, as well as the testing of each implemented model and the performance achived with each one. 
+ 
 #1.	Data Exploration 
  
 The purpose of the project consists in developing an NLP model, based on the classes’ techniques, capable of predicting the daily closing status of a stock market index, according to some news headlines provided in the training set (train.csv), and then test it in the test set (test.csv). 
